@@ -15,7 +15,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 # 💫 About Me:
-SDET @CTS
+MSc. Cyber Security ( Ongoing )
 
 
 ## 🌐 Socials:
